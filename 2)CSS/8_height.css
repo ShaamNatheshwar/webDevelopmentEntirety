@@ -1,0 +1,9 @@
+div.just-width{
+    width: 1000px;
+    background-color: green;
+}
+
+div.just-max-width{
+    max-width: 1000px;
+    background-color: red;
+}

@@ -1,0 +1,17 @@
+p.dashed-border{
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 3px;
+    /* border-width: thick; */
+    /* specific border widths */
+    /* border-width: 10px 6px;  */
+    /* border-width: 10px 8px 8px 10px; */
+    /* border-top-style: dotted;
+    border-right-style: groove;
+    border-bottom-style: double;
+    border-left-style: solid; */
+    /* border-style: dotted solid dotted double ; */
+    border-color: red green yellow blue;
+}
+
+/* short hand propert WSA */

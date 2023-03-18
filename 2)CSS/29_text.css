@@ -1,0 +1,11 @@
+div.sample-wrap{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    overflow: visible;
+    /* text-overflow: clip; */
+    /* word-wrap: break-word; */
+    word-break: break-all;
+    word-break: keep-all;
+    writing-mode: horizontal-tb;
+}

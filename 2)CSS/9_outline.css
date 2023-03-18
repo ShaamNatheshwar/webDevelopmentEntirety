@@ -1,0 +1,10 @@
+p{
+    outline-style: dotted;
+    border-style: solid;
+    outline-color: blue;
+    border-color: red;
+    outline-width: thick;
+    outline-offset: 10px;
+}
+
+/* short hand wsa */

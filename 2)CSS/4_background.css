@@ -1,0 +1,29 @@
+*{
+    background-color: aqua;
+}
+
+
+
+
+.opacity{
+    background-color: green;
+    opacity: 0.5;
+}
+
+.rgba{
+    background-color:  rgba(201, 103, 88, 0.2);
+}
+
+div{
+    width: 100rem;
+    height: 100rem;
+    background-image: url(madara.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+/* The short hand property is CIRAP */
+simply{
+    background: #ffff url(madara.jpg) no-repeat fixed right;
+}

@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+table, th, td{
+    border: 2px solid;
+    /* text-align: center; */
+    vertical-align: bottom;
+    border-collapse: collapse;
+}
+/* tr:hover{
+    background-color: red;
+} */
+
+tr:nth-child(even){
+    background-color: green;
+}

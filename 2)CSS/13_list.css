@@ -1,0 +1,12 @@
+ul{
+    list-style-type: square;
+    list-style-position: outside;
+}
+
+ol{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    /* list-style-image: even images can be used; */
+}
+
+/* type postion image */

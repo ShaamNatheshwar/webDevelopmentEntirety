@@ -1,0 +1,12 @@
+a{
+    font-size: 5vw;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+}
+a:visited{
+    color: brown;
+}
+
+/* a:visited, a:hover , a:active, a:link */

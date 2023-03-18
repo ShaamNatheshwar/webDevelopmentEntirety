@@ -1,0 +1,6 @@
+/* div p{
+    background-color: rebeccapurple;
+} */
+div ~ p{
+    background-color: green;
+}

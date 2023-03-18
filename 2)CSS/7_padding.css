@@ -1,0 +1,12 @@
+div.main-div{
+    width: 20rem;
+    height: 20rem;
+    background-color: green;
+}
+div.padding-div{
+    box-sizing: border-box;
+    width: 10rem;
+    height: 10rem;
+    padding: 25px;
+    background-color: blue;
+}

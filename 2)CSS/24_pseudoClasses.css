@@ -1,0 +1,10 @@
+a:hover{
+    color: brown;
+}
+
+p::first-letter{
+    background-color: green;
+}
+::marker{
+    color: blueviolet;
+}

@@ -1,0 +1,13 @@
+.sample-inline{
+    display: inline;
+}
+span{
+    display: block;
+}
+h1{
+    visibility: hidden;
+}
+
+h2{
+    display: none;
+}

@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+
+    /* margin: auto; */
+}
+div p.without-margin{
+    background-color: green;
+    /* margin-bottom: 50px; */
+}
+
+div p.with-margin{
+    margin-top: 60px;
+    background-color: red;
+    /* margin: 5rem 3rem 5rem 7rem; */
+    /* margin: auto; */
+    /* margin: inherit; */
+}

@@ -1,0 +1,26 @@
+/* Universal selector */
+*{
+    background-color: aqua;
+} 
+
+/* element selector */
+p{
+    font-size: xx-large;
+}
+
+/* id selector */
+#id-selector{
+    color: green;
+}
+
+.class-selector{
+    color: blue;
+}
+
+p.center{
+    text-align: center;
+}
+
+h3, h4, h5{
+    color: red;
+}

@@ -1,0 +1,30 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+
+h3{
+    text-align: right;
+}
+div.jst{
+    border-style: solid;
+    /* text-align: justify; */
+    /* text-align-last: center; */
+    /* unicode-bidi: bidi-override; */
+    vertical-align: baseline;
+    text-decoration-line: line-through;
+    text-decoration-color: green;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 3px;
+    /* text-decoration: none; */
+    text-transform: capitalize;
+    /* text-indent: 100px; */
+    /* white-space: nowrap; */
+    /* letter-spacing: 10px; */
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+
+/* short hand property lcst - line is mandatory */

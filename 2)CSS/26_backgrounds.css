@@ -1,0 +1,6 @@
+.hero-image {
+    background-image: url("md.jpg") no-repeat center; 
+    background-size: cover;
+    height: 500px;
+    position: relative;
+  }

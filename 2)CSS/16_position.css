@@ -1,0 +1,25 @@
+div.position-static{
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+div.position-relative{
+    position: relative;
+    background-color: green;
+    right: 500px;
+}
+div.position-absolute{
+    position: absolute;
+    background-color: orange;
+    right: 500px;
+}
+div.position-sticky{
+    position: sticky;
+    background-color: yellow;
+    left: 50px;
+}
+.position-fixed{
+    position: fixed;
+    background-color: red;
+    right: 50px;
+}

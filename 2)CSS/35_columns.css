@@ -1,0 +1,10 @@
+:root{
+    --blue : blue
+}
+div{
+    /* column-count: 4;
+    column-rule-style: solid;
+    column-width: 2em; */
+    resize: vertical;
+    outline-offset: 10em;
+}

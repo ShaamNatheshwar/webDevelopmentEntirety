@@ -1,0 +1,9 @@
+div{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border: 10px solid transparent;
+    /* border-radius: 20px; */
+    /* border-top-right-radius: 100px; */
+    border-image: url(madara.jpg) 40 round;
+}
