@@ -1,0 +1,4 @@
+@use "../abstract/variables/index" as *;
+@function brand-colors($vaiant){
+    @return map-get($map: $theme-colors, $key: $vaiant )
+}

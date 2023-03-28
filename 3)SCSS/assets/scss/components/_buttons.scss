@@ -1,0 +1,14 @@
+@use "../abstract/mixins";
+.btn{
+    @include mixins.btn;
+
+    &-primary{
+        @include mixins.btn(#fff);
+        background-color: aqua;
+    }
+
+    &-danger{
+        @include mixins.btn(#fff);
+        background-color: crimson;
+    }
+}

@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+html,
+body {
+  background-color: #27b070;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.header__menus {
+  display: flex;
+  list-style-type: none;
+}
+.header__link {
+  margin-right: 20px;
+  font-size: 14px;
+}
+.header__link.active > a {
+  color: #673ab7;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.welcome-card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 40px;
+}
+.welcome-card__title {
+  font-size: 25px;
+}
+.welcome-card__text {
+  margin-top: 10px;
+  color: grey;
+}
+.welcome-card__btn {
+  background-color: rebeccapurple;
+  margin-top: 10px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: none;
+  color: #fff;
+}
+
+.btn {
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+}
+.btn-primary {
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: aqua;
+}
+.btn-danger {
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: crimson;
+}
+
+p {
+  color: red;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 100px;
+}
+
+h4 {
+  font-size: 100px;
+}
+
+h5 {
+  font-size: 100px;
+}/*# sourceMappingURL=style.css.map */

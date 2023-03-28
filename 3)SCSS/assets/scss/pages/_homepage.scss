@@ -1,0 +1,29 @@
+@use "../abstract/variables/index";
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+  .welcome-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 40px;
+  
+    &__title {
+      font-size: 25px;
+    }
+    &__text {
+      margin-top: 10px;
+      color: grey;
+    }
+    &__btn {
+      // $main-color: red !global;
+      background-color: rebeccapurple;
+      margin-top: 10px;
+      border-radius: 5px;
+      padding: 5px 10px;
+      border: none;
+      color: #fff;
+    }
+  }
